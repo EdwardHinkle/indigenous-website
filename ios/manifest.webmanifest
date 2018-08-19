@@ -1,0 +1,13 @@
+{
+  "name": "Indigenous for iOS",
+  "icons": [{
+    "src": "img/app-icon.png",
+    "sizes": "167x167",
+    "type": "image/png"
+  }],
+  "prefer_related_applications": true,
+  "related_applications": [{
+    "platform": "itunes",
+    "url": "https://itunes.apple.com/us/app/indigenous-social-timeline/id1271004584?mt=8"
+  }]
+}
