@@ -1,0 +1,8 @@
+{
+  "name": "Indigenous for Android",
+  "icons": [{
+    "src": "img/app-icon.png",
+    "sizes": "167x167",
+    "type": "image/png"
+  }]
+}
