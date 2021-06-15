@@ -1,0 +1,9 @@
+[[redirects]]
+  from = "/microblog/login/:slug"
+  to = "indigenous://auth/microblog/:slug"
+  status = 301
+  
+[[redirects]]
+  from = "/ios/login-redirect"
+  to = "indigenous://auth/callback/"
+  status = 301
