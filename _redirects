@@ -1,0 +1,2 @@
+/ios/login-redirect indigenous://auth/callback
+/microblog/login/:slug indigenous://auth/microblog/:slug
